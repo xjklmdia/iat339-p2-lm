@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Normalize line endings between OS's
+* text=auto
+
